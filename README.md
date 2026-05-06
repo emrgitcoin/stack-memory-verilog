@@ -1,7 +1,7 @@
 # Stack Memory (LIFO) Design using Verilog
 
 ## 📌 Project Description
-This project implements a Stack Memory based on the Last-In-First-Out (LIFO) principle using Verilog Hardware Description Language (HDL).
+This project implements a Stack Memory based on the Last-In-First-Out (LIFO) principle using Verilog.
 
 The design supports push and pop operations and is verified through simulation using a testbench and GtkWave.
 
